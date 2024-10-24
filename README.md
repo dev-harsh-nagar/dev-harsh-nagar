@@ -2,7 +2,7 @@
 - 👀 I’m interested in developing productive and interesting applications.
 - 🌱 I’m currently learning JAVA.
 - 💞️ I’m looking to collaborate on some interesting mini applications, that can be very much useful in day-to-day tasks.
-- 📫 How to reach me - Linkedin | Email
+- 📫 How to reach me - Connect with me on Linkedin.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Debugger's Dilemma: Why do programmers prefer dark mode? Because light attracts bugs!
 
